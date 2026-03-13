@@ -132,13 +132,13 @@ streamlit run streamlit_app.py
 
 ## 👥 Project Team
 
-- **Vignesh S** – Model Building & Training  
-- **Umar Farooq** – Front-End Design & Exploratory Data Analysis  
-- **Vikram** – Data Cleaning & Feature Engineering  
-- **Sheshathri** – Documentation & Reporting
+- **DHANESWARI S** – Model Building & Training  
+- **CHAITANYA** – Front-End Design & Exploratory Data Analysis  
+- **BHARGAVI** – Data Cleaning & Feature Engineering  
+- **KADAMBINI** – Documentation & Reporting
 
 ---
 
 > ⚠️ **Academic Integrity Notice**  
-> This project was developed by **Vignesh S and Team** for academic use at **Priyadarshini Engineering College**. Unauthorized copying, modification, or submission of this project as your own academic or commercial work is strictly prohibited..
+> This project was developed by **KADAMBINI and Team** for academic use at **FACULTY OF Engineering AND TECHNOLOGY EXCLUSIVELY FOR WOMENS SHARNBASAVA UNIIIVERSITY**. Unauthorized copying, modification, or submission of this project as your own academic or commercial work is strictly prohibited..
 
